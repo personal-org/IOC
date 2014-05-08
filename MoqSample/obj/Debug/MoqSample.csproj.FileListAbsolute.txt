@@ -1,0 +1,8 @@
+C:\Users\saravanan.doraiswamy\Documents\Visual Studio 2012\Projects\o\MoqSample\bin\Debug\MoqSample.exe.config
+C:\Users\saravanan.doraiswamy\Documents\Visual Studio 2012\Projects\o\MoqSample\obj\Debug\MoqSample.csprojResolveAssemblyReference.cache
+C:\Users\saravanan.doraiswamy\Documents\Visual Studio 2012\Projects\o\MoqSample\bin\Debug\MoqSample.exe
+C:\Users\saravanan.doraiswamy\Documents\Visual Studio 2012\Projects\o\MoqSample\bin\Debug\MoqSample.pdb
+C:\Users\saravanan.doraiswamy\Documents\Visual Studio 2012\Projects\o\MoqSample\bin\Debug\Moq.dll
+C:\Users\saravanan.doraiswamy\Documents\Visual Studio 2012\Projects\o\MoqSample\bin\Debug\Moq.xml
+C:\Users\saravanan.doraiswamy\Documents\Visual Studio 2012\Projects\o\MoqSample\obj\Debug\MoqSample.exe
+C:\Users\saravanan.doraiswamy\Documents\Visual Studio 2012\Projects\o\MoqSample\obj\Debug\MoqSample.pdb
